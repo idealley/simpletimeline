@@ -1,6 +1,6 @@
 # Simple Timeline
 
-[See the timeline](https://www.ersnet.org/congress-and-events/event-calendar) in production
+[See the timeline](https://www.ersnet.org/congress-and-events/events-calendar) in production
 
 Clone this repo:
 ```
